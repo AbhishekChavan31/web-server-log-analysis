@@ -43,8 +43,7 @@
 * Clone this repository:
 git clone https://github.com/AbhishekChavan31/web-server-log-analysis.git
 
-* Install dependencies:
-pip install -r requirements.txt
+* Install dependencies
 
 * Start Kafka and MongoDB services.
   
