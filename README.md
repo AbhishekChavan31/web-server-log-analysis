@@ -60,8 +60,7 @@ pip install -r requirements.txt
 📊 Sample Visualizations
 The project offers interactive visualizations to explore:
 
-Traffic spikes and downtime.
-Unusual user-agent behaviors.
-Regional traffic patterns.
+* Traffic spikes and downtime. Unusual user-agent behaviors. Regional traffic patterns.
+  
 **🤝 Contributing**
 * Contributions are welcome! Feel free to raise issues, suggest enhancements, or submit PRs.
