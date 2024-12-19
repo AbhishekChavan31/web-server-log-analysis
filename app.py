@@ -1,7 +1,7 @@
 import streamlit as st
 # from pymongo import MongoClient
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import numpy as np
 import joblib
 import random
